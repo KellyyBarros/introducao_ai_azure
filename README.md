@@ -13,3 +13,6 @@
 ### Desafios e riscos com a IA
 ### IA responsável
 
+## [Explorando Ferramentas Visuais de machine Learning](./Ferramentas_Visuais_ML.md)
+
+
